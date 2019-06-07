@@ -1,0 +1,925 @@
+ -level-I-
+    -q- A hardware and software combination used to connect the same type of networks is called
+-v- -t- a bridge
+-v- a router
+-v- a backbone
+-v- a gateway
+   -q- The layer that converts a message’s data from human-readable form into bits is called
+-v- -t- application layer
+-v- presentation layer
+-v- session layer
+-v- transport layer
+   -q- The layer that ensures that the message is transmitted in a language that the receiving computer
+can interpret is called
+-v- application layer
+-v- -t- presentation layer
+-v- session layer
+-v- transport layer
+   -q- The layer that sets boundaries (called bracketing) for the beginning and end of the message is
+called
+-v- application layer
+-v- presentation layer
+-v- -t- session layer
+-v- transport layer
+   -q- The layer that can make backup copies of the data is called
+-v- application layer
+-v- presentation layer
+-v- session layer
+-v- -t- transport layer
+   -q- The layer that selects a route for the message is called
+-v- application layer
+-v- presentation layer
+-v- session layer
+-v- -t- network layer
+   -q- The layer that keeps a copy of each packet until it receives confirmation from the next point is
+called
+-v- presentation layer
+-v- session layer
+-v- network layer
+-v- -t- data-link layer
+   -q- The layer that encodes the packets into the medium that will carry them and sends the packets
+along the medium is called
+-v- -t- physical layer
+-v- session layer
+-v- network layer
+-v- data-link layer
+   -q- Computer is a universal instrument for
+-v- problem solving
+-v- getting results
+-v- -t- processing information
+-v- counting
+
+   -q- The device for outputting information from the computer (the output device) is
+-v- -t- printer
+-v- card reader
+-v- tape reader
+-v- disc drive
+   -q- The cathode-ray tube means
+-v- монітор
+-v- клавіатура
+-v- жорсткий диск
+-v- -t- електронно-променева трубка
+   -q- The word “computer” comes from a Latin word which means
+-v- to use
+-v- to read
+-v- to know
+-v- -t- to count
+   -q- 3 basic hardware components are
+-v- a monitor, a mouse and a keyboard
+-v- -t- a monitor, a system block and peripheral devices
+-v- a system block, a mouse and a printer
+-v- a mouse, a keyboard and peripheral devices
+   -q- The system block consists of
+-v- -t- a motherboard, a processor and memory
+-v- a motherboard, memory and a floppy
+-v- a processor, memory and a mouse
+-v- a motherboard, a processor and a printer
+   -q- Speed is measured in
+-v- -t- hertz (Hz)
+-v- bytes (B)
+-v- pixels
+-v- kilobits per second (kbps)
+   -q- The capacity (size) of the memory is measured in
+-v- hertz (Hz)
+-v- -t- megabytes (MB)
+-v- pixels
+-v- kilobits per second (kbps)
+   -q- How do you translate the notion “cache hit”?
+-v- популярний пошук
+-v- лазерний пошук
+-v- -t- вдалий пошук
+-v- попередній пошук
+   -q- How do you translate the notion “buffer of cache”?
+-v- готівка
+-v- -t- буфер обміну
+-v- популярний пошук
+-v- попередній пошук
+   -q- How do you translate the notion “speed trap unit”?
+-v- -t- прилад вимірювання швидкості
+-v- материнська плата
+-v- копіювальний пристрій
+
+-v- клавіатура
+   -q- How do you translate the notion “motherboard”?
+-v- оперативна пам’ять
+-v- курсор
+-v- копіювальний пристрій
+-v- -t- материнська плата
+   -q- How do you translate the notion “a beam of radiowaves”?
+-v- -t- пучок радіохвиль
+-v- набір радарів
+-v- довжина хвилі
+-v- завантажена дорога
+   -q- How do you translate the notion “barcode”?
+-v- номерні знаки
+-v- оптичні символи
+-v- пучок радіохвиль
+-v- -t- штрихкод
+   -q- Data mining is filtering through large amounts of
+-v- radio waves
+-v- -t- raw data
+-v- internet information
+-v- tiny computer devices
+   -q- The most popular tool used when data mining is
+-v- a radar set
+-v- a beam of radio waves
+-v- -t- artificial intelligence
+-v- the DVLC database
+   -q- How do you translate the notion “artificial intelligence”?
+-v- народна мудрість
+-v- -t- штучний інтелект
+-v- необроблені дані
+-v- інтелігентний митець
+   -q- How do you translate the notion “neural network”?
+-v- пучок радіохвиль
+-v- штучний інтелект
+-v- -t- нейронна мережа
+-v- соціальна мережа
+   -q- A process of filtering through large amounts of raw data for useful information is
+-v- artificial intelligence
+-v- flat file
+-v- -t- data mining
+-v- neural network
+   -q- Give the full form of the notion “pixels”?
+-v- printer and Xerox
+-v- -t- picture elements
+-v- EPOS tills
+-v- number plates
+   -q- What can be to a computer to transfer pictures directly?
+-v- number plates
+-v- conventional cameras
+
+-v- -t- digital cameras
+-v- human brain
+   -q- What is the abbreviation for the Liquid Crystal Display screen?
+-v- CCD
+-v- DVD
+-v- -t- LCD
+-v- DVLC
+   -q- A number system with only two digits (1 and 0) used in computing is called
+-v- operating system
+-v- -t- binary system
+-v- magnetic tape
+-v- neural network
+   -q- Programs that remain in memory while the computer is in use are known as
+-v- data mining
+-v- neural network
+-v- -t- resident programs
+-v- non-resident programs
+   -q- How do you translate the notion “kernel”?
+-v- код
+-v- -t- ядро
+-v- система
+-v- пам’ять
+   -q- How do you translate the notion “programming tools”?
+-v- інтерфейс користувача
+-v- програмна інженерія
+-v- -t- інструменти програмування
+-v- панель інструментів
+   -q- How do you translate the notion “source code”?
+-v- кодова інформація
+-v- кодовий замок
+-v- чотиризначний код
+-v- -t- ввідний код
+   -q- How do you translate the notion “Free Software Foundation”?
+-v- графічний інтерфейс користувачаa
+-v- фонд вільного апаратного забезпечення
+-v- асоціація незалежних програмістів
+-v- -t- фонд вільного програмного забезпечення
+   -q- How do you translate the notion “an operating system kernel”?
+-v- програмування операційної системи
+-v- -t- ядро операційної системи
+-v- забезпечення операційної системи
+-v- вхід до операційної системи
+   -q- How do you translate the notion “text editor”?
+-v- відредагований текст
+-v- -t- текстовий редактор
+-v- перекладач
+-v- текстовий файл
+   -q- How do you translate the notion “розподіл пам’яті”?
+-v- cache memory
+
+-v- random access memory
+-v- read only memory
+-v- -t- memory allocation
+   -q- A GUI (graphical user interface) allows the user
+-v- to use a keyboard to interact with a computer
+-v- -t- to use a mouse to interact with a computer
+-v- to use a modem to interact with a computer
+-v- to use a disk to interact with a computer
+   -q- An icon can be selected by
+-v- clicking the right mouse button
+-v- -t- clicking the left mouse button
+-v- clicking the start button
+-v- clicking the escape button
+   -q- A window with the focus is known as
+-v- open window
+-v- deleted window
+-v- closed window
+-v- -t- active window
+   -q- What is the synonym word of “related menu”?
+-v- taskbar
+-v- active window
+-v- scroll bar
+-v- -t- submenu
+   -q- How do you translate the notion “cенсорний екран”?
+-v- a display
+-v- a cathode-ray tube
+-v- -t- a touchscreen
+-v- LCD
+   -q- A browser program that allows the user to view webpages on the Internet is called
+-v- Microsoft Outlook
+-v- Recycle Bin
+-v- -t- Internet Explorer
+-v- My Computer
+   -q- How do you translate the notion “a messaging program”?
+-v- -t- програма повідомлень
+-v- повідомлення про зміни у програмі
+-v- програмне забезпечення
+-v- програмна інженерія
+   -q- How do you translate the notion “Network Neighbourhood”?
+-v- мережа Інтернет
+-v- -t- мережеве оточення
+-v- підключення до Інтернету
+-v- відсутність мережі
+   -q- How do you translate the notion “the Clipboard”?
+-v- мережеве оточення
+-v- корзина
+-v- клавіатура
+-v- -t- буфер обміну
+
+   -q- How do you translate the notion “speech recognition”?
+-v- -t- розпізнавання мовлення
+-v- підготовка промови
+-v- розпізнавання думки
+-v- відбитки пальців
+   -q- How do you translate the notion “a single browser interface”?
+-v- графічний інтерфейс користувача
+-v- однобраузерна система
+-v- -t- однобраузерний інтерфейс
+-v- дизайн інтерфейсу
+   -q- How do you translate the notion “to incorporate speech input”?
+-v- розпізнавання мовлення
+-v- -t- вміщувати мовне введення
+-v- покращувати енергоефективність
+-v- підключення корпоративної пошти
+   -q- An applications program for creating and editing texts is
+-v- spreadsheets
+-v- -t- Wordprocessors
+-v- presentation program
+-v- PIM (personal information manager)
+   -q- An applications program for performing calculations using formulas is
+-v- -t- spreadsheets
+-v- Wordprocessors
+-v- presentation program
+-v- PIM (personal information manager)
+   -q- An applications program for storing data so that it can be easily searched and sorted is
+-v- spreadsheets
+-v- Wordprocessors
+-v- -t- Databases
+-v- PIM (personal information manager)
+   -q- An applications program for sending electronic mail messages is
+-v- Spreadsheets
+-v- -t- Email
+-v- presentation program
+-v- PIM (personal information manager)
+   -q- A powerful computer that stores and allows users access to data files on a network is called
+-v- a browser
+-v- -t- a server
+-v- a supercomputer
+-v- a big brain
+   -q- A very high quality text and graphics printer that has a photosensitive drum that deposits toner
+powder on the paper is called
+-v- -t- a laser printer
+-v- a dot-matrix printer
+-v- a personal printer
+-v- a color printer
+
+   -q- A low quality printer that prints by hammering pins on the paper to print an image made up of
+dots
+-v- a laser printer
+-v- -t- a dot-matrix printer
+-v- a personal printer
+-v- a color printer
+   -q- The provider that provides remote access to the software and manages the hardware required to
+run the applications is known as
+-v- -t- ASP
+-v- PC
+-v- SAP
+-v- Pixel
+   -q- You pay for ASP applications
+-v- every day
+-v- -t- as and when you need them
+-v- once a year
+-v- once when you buy them
+   -q- To use applications remotely requires a lot of
+-v- money
+-v- time
+-v- computers
+-v- -t- bandwidth
+   -q- How do you translate the notion “орендувати додатки у ASP”
+-v- to provide remote access to ASP
+-v- to fix ASP problems
+-v- to install software on ASP
+-v- -t- to rent applications from the ASP
+   -q- How do you translate the notion “забезпечувати віддалений доступ до ASP”
+-v- -t- to provide remote access to ASP
+-v- to fix ASP problems
+-v- to install software on ASP
+-v- to rent applications from the ASP
+   -q- How do you translate the notion “запустити додатки”
+-v- to fix problems
+-v- to install software
+-v- to rent applications
+-v- -t- to run applications
+   -q- How do you translate the notion “широкосмугове покриття”
+-v- -t- a broadband connection
+-v- a leased line
+-v- storage space
+-v- data storage
+   -q- How do you translate the notion “простір для збереження”
+-v- a broadband connection
+-v- a leased line
+-v- -t- storage space
+-v- data storage
+
+   -q- A combination of text, graphics, animation, sound and video is called
+-v- DVD
+-v- MP 3
+-v- -t- multimedia
+-v- broadband
+   -q- A standard way of storing compressed, digital audio files (usually musi-v- is
+-v- DVD
+-v- -t- MP 3
+-v- nultimedia
+-v- broadband
+   -q- MP3 files are more suitable for transferring across the Internet because of
+-v- -t- their small size
+-v- their music
+-v- their recognition
+-v- their flexibility
+   -q- What is compilation?
+-v- combinations of numbers
+-v- -t- combinations of files
+-v- combinations of page visits
+-v- combinations of characters
+   -q- Which button allows the user to see the information stored in the MP3 file tag?
+-v- a play button
+-v- a start button
+-v- -t- a track info button
+-v- a recording button
+   -q- What program lets the user rip (extract) a song from a CD and convert it to a standard WAV file?
+-v- skins
+-v- -t- ripper
+-v- encoder
+-v- recorder
+   -q- What program lets the user change the appearance of MP3 players?
+-v- -t- skins
+-v- ripper
+-v- encoder
+-v- recorder
+   -q- What program lets the user convert WAV files into MP3 files and vice versa?
+-v- skins
+-v- ripper
+-v- -t- encoder
+-v- recorder
+   -q- What program lets the user create audio CDs using a writable CD-ROM drive?
+-v- skins
+-v- ripper
+-v- encoder
+-v- -t- recorder
+   -q- The most common system for the compressing of video is
+-v- MIDI
+-v- -t- MPEG
+-v- OSCE
+
+-v- CD-RV
+   -q- An interface for linking music synthesizers and instruments together is called
+-v- -t- MIDI
+-v- MPEG
+-v- OSCE
+-v- CD-RV
+   -q- MIDI does not allow the music to be
+-v- stored on computer
+-v- displayed on the monitor
+-v- -t- edited
+-v- transmitted
+   -q- What frames are not used in the system for the compressing of video?
+-v- -t- A-frames
+-v- B-frames
+-v- I-frames
+-v- P-frames
+   -q- In the system for the compressing of video between I and P-frames are
+-v- A-frames
+-v- -t- B-frames
+-v- C-frames
+-v- D-frames
+   -q- How do you translate the notion “a sequence of frames”?
+-v- зв&#39;язок між картинами
+-v- -t- послідовність кадрів
+-v- мережеве оточення
+-v- штучний інтелект
+   -q- How do you translate the notion “bitmap compression techniques”
+-v- зв&#39;язок між картинами
+-v- послідовність кадрів
+-v- мережеве оточення
+-v- -t- методи стиснення растрових зображень
+   -q- Computers and peripherals connected together form
+-v- a broadband
+-v- a bandwidth
+-v- -t- a network
+-v- an Internet
+   -q- A network that covers a small area e.g. an office or building is known as
+-v- a broadband
+-v- a bandwidth
+-v- -t- a LAN
+-v- an Internet
+   -q- A main data communications cable connecting LANs together is called
+-v- -t- a backbone
+-v- a server
+-v- a supercomputer
+-v- software
+   -q- The computers that use the services are known as
+-v- mainframes
+-v- servers
+
+-v- supercomputers
+-v- -t- clients
+   -q- What is used to connect networks to form the Internet?
+-v- modems
+-v- -t- routers
+-v- LANs
+-v- Telephones
+   -q- Special electronics to control the network connection is called
+-v- modem
+-v- router
+-v- LAN
+-v- -t- network adapter
+   -q- How do you translate the notion “sharing of hardware”?
+-v- зберігання апаратного забезпечення
+-v- -t- спільне використання апаратного забезпечення
+-v- встановлення апаратного забезпечення
+-v- заміна апаратного забезпечення
+   -q- How do you translate the notion “a network adapter”?
+-v- мережеве оточення
+-v- відсутність мережі
+-v- -t- мережевий адаптер
+-v- мережеве покриття
+   -q- Finally! We ... our homework! We are free!
+-v- Did
+-v- -t- Have done
+-v- Were doing
+-v- Had done
+   -q- I am looking for my pen. I ...it
+-v- -t- Lost
+-v- Did lost
+-v- Was lost
+-v- Have lost
+   -q- I am not hungry. I have ...eaten
+-v- -t- Just
+-v- Ever
+-v- Now
+-v- Yet
+   -q- ... you ever been to New York?
+-v- Had
+-v- Was
+-v- Were
+-v- -t- Have
+   -q- Someone ... my CD player
+-v- Have stole
+-v- Have stolen
+-v- -t- Has stolen
+-v- Stolen
+
+   -q- My friend ... my new dress yet
+-v- Haven’t seen
+-v- Didn’t see
+-v- -t- Hasn’t seen
+-v- Seen
+   -q- ... you ... my letter already?
+-v- -t- Have you typed
+-v- Did you typed
+-v- Have you type
+-v- Do you type
+   -q- I ... him since his last birthday
+-v- Haven’t see
+-v- -t- Haven’t seen
+-v- Didn’t see
+-v- Hasn’t seen
+   -q- Our friend is very ill. He ... in bed since last August
+-v- Was
+-v- Is
+-v- Have been
+-v- -t- Has been
+   -q- How many times ... you been there?
+-v- -t- Have
+-v- Did
+-v- Were
+-v- Has
+   -q- I ... her several times since she got married
+-v- Have meet
+-v- -t- Have met
+-v- Met
+-v- Has met
+   -q- We ... down when we saw a woman
+-v- Walked
+-v- Walking
+-v- -t- Were walking
+-v- Was walking
+   -q- ... you swimming when the telephone rang?
+-v- -t- Were
+-v- Are
+-v- Do
+-v- Did
+   -q- Mr. Adams ... dinner at 6 o’clock yesterday morning
+-v- -t- Was having
+-v- Was hasing
+-v- Had
+-v- Has
+   -q- What ...Adam and Helen ... when you broke the glass?
+-v- Was doing
+-v- -t- Were doing
+-v- Have doing
+
+-v- Did
+   -q- While I ... working, I saw an accident
+-v- -t- Was
+-v- Were
+-v- Did
+-v- Have
+   -q- Tom wasn’t reading a book. He ... a dog
+-v- Fed
+-v- -t- Was feeding
+-v- Was fed
+-v- Is feeding
+   -q- I am busy right now. I ... breakfast
+-v- -t- Am having
+-v- Was having
+-v- Is having
+-v- Having
+   -q- ... you waiting for a bus?
+-v- Is
+-v- -t- Are
+-v- Do
+-v- Does
+   -q- What ... ?It looks awful
+-v- Do you drinking
+-v- Are you drink
+-v- -t- Are you drinking
+-v- Does you drink
+   -q- Don’t disturb him. He ...
+-v- Sleeps
+-v- -t- Is sleeping
+-v- Is sleep
+-v- Sleep
+   -q- My daughter ... studying at the moment
+-v- -t- Is
+-v- Am
+-v- Are
+-v- Does
+   -q- What ... John ... at the moment?
+-v- -t- Is doing
+-v- Doing
+-v- Am doing
+-v- Does
+   -q- Helen and Peter ... to school now
+-v- Going
+-v- -t- Are going
+-v- Went
+-v- Go
+   -q- It ... a lot in Britain
+-v- -t- Rains
+-v- Rain
+-v- Is rains
+-v- Do not rain
+   -q- My sister ... to the cinema very often
+-v- Do not go
+-v- Does not goes
+-v- -t- Does not go
+-v- Goes not
+   -q- She ... married
+-v- -t- Is
+-v- Am
+-v- Are
+-v- Does
+   -q- The banks ...on Sunday
+-v- Doesn’t open
+-v- -t- Don’t open
+-v- Doesn’t opens
+-v- Opens
+   -q- They ... the answer
+-v- -t- Do not know
+-v- Does not know
+-v- Knows
+-v- Are not know
+   -q- They ... agree with my opinion
+-v- Are
+-v- -t- Do not
+-v- Do
+-v- Are not
+   -q- What does this word ...?
+-v- Means
+-v- -t- Mean
+-v- Meaning
+-v- Is mean
+   -q- He ... do anything to help me
+-v- Don’t
+-v- Isn’t
+-v- Not
+-v- -t- Doesn’t
+   -q- I come from Canada. Where ... you come from?
+-v- Are
+-v- -t- Do
+-v- Is
+-v- Not
+   -q- Jane ... tea very often
+-v- -t- Doesn’t drink
+-v- Drink
+-v- Is drink
+-v- Isn’t drink
+   -q- We ... David in town a few days ago
+-v- Did see
+
+-v- Was saw
+-v- Did saw
+-v- -t- Saw
+   -q- It was cold, so I ... the window
+-v- -t- shut
+-v- was shut
+-v- am shut
+-v- shutted
+   -q- What ... you ... last weekend?
+-v- Were/do
+-v- Did/did
+-v- -t- Did/do
+-v- Do/did
+   -q- The film was very interesting. I ... it very much
+-v- -t- Enjoyed
+-v- Wasn’t enjoy
+-v- Didn’t enjoyed
+-v- Didn’t enjoy
+   -q- The bed was very uncomfortable. I ... sleep very well
+-v- -t- Didn’t
+-v- Did
+-v- Wasn’t
+-v- Not
+   -q- I ... a lot of money yesterday. I ... an expensive dress
+-v- Spend/buy
+-v- Spent/buy
+-v- -t- Spent/bought
+-v- Was spent/bought
+   -q- Mozart ... more than 600 pieces of music
+-v- Writed
+-v- Writes
+-v- -t- Wrote
+-v- Was wrote
+   -q- He ... and switched off the light
+-v- Gets up
+-v- -t- Got up
+-v- Do not get up
+-v- Getted up
+   -q- We parked our car and ... to the beach
+-v- -t- Went
+-v- Go
+-v- Goes
+-v- Gone
+   -q- Anna ... to class yesterday because she was at the hospital
+-v- -t- Didn’t come
+-v- Doesn’t come
+-v- Isn’t come
+-v- Don’t come
+   -q- I _____ a cigarette, but my teacher _____ smoke.
+
+-v- don’t smoke / smokes
+-v- -t- smoke / doesn’t
+-v- smokes / smokes
+-v- smoke / don’t
+   -q- She _____ a bus to university.
+-v- -t- always takes
+-v- always take
+-v- takes always
+-v- take always
+   -q- “How many languages _____ you _____ ?”
+-v- does / speak
+-v- -t- do / speak
+-v- do / speaking
+-v- does / speaking
+   -q- The weather _____ nice today, but it _____ nasty yesterday.
+-v- -t- is / was
+-v- was / is
+-v- is / is
+-v- is / were
+   -q- It _____ Jack’s birthday two days ago.
+-v- -t- was
+-v- were
+-v- is
+-v- are
+   -q- I _____ the champion last week.
+-v- -t- saw
+-v- did see
+-v- see
+-v- Seen
+   -q- _____you have a good time last night?
+-v- -t- Did
+-v- Have
+-v- Were
+-v- Was
+   -q- _____ Kate live near Jane?
+-v- Is
+-v- Am
+-v- do
+-v- -t- does
+   -q- _____ you in England in 1999?
+-v- Was
+-v- -t- Were
+-v- Did
+-v- Are
+   -q- Where _____ you now?
+-v- -t- Are
+-v- Is
+-v- Was
+-v- Did
+
+   -q- What are you ____ now?
+-v- Do
+-v- Does
+-v- -t- Doing
+-v- Did
+   -q- The students ____ hard this year
+-v- -t- Have worked
+-v- Has worked
+-v- Is working
+-v- Works
+   -q- I have never ____ to China
+-v- Be
+-v- Was
+-v- Were
+-v- -t- Been
+   -q- My friend ______________ my new dress yet.
+-v- -t- Hasn’t seen
+-v- Haven’t seen
+-v- Didn’t see
+-v- Wasn’t see
+   -q- They _____ this problem when I came in
+-v- Was discussing
+-v- Discussed
+-v- -t- Were discussing
+-v- Are discussing
+   -q- It ____ when I went out
+-v- -t- Was snowing
+-v- Snowed
+-v- Is snowing
+-v- Snows
+   -q- We ____ here since 1990
+-v- -t- Have lived
+-v- Lived
+-v- Were living
+-v- Live
+   -q- I ____ him since childhood
+-v- -t- Have known
+-v- Know
+-v- Knew
+-v- Known
+   -q- What ___ she ____ now?
+-v- Is/do
+-v- -t- Is/doing
+-v- Did/do
+-v- Does/do
+   -q- When I came home, they _____ dinner
+-v- -t- Were having
+-v- Was having
+-v- Had
+
+-v- Are having
+   -q- What ____ she do after classes?
+-v- -t- Does
+-v- Do
+-v- Is
+-v- Was
+   -q- I ___ already ___ my homework
+-v- Have/do
+-v- -t- Have/done
+-v- Was/done
+-v- Did/do
+   -q- We _____ across the Pacific three times
+-v- Have sail
+-v- -t- Have sailed
+-v- Has sail
+-v- Has sailed
+   -q- I ______ snow boarding
+-v- Have never try
+-v- -t- Have never tried
+-v- Has never tried
+-v- Did not tried
+   -q- Someone _____ my video player
+-v- -t- Has stolen
+-v- Stolen
+-v- Steal
+-v- Have stolen
+   -q- ______ an eagle?
+-v- -t- Have you ever seen
+-v- Have you ever see
+-v- Has you ever seen
+-v- Has you ever see
+   -q- How long _____ your friend?
+-v- Do you know
+-v- Did you know
+-v- -t- Have you known
+-v- Know
+   -q- My grandmother, who died five years ago,_______abroad.
+-v- Was never going
+-v- Never went
+-v- -t- Has never been
+-v- Have never been
+   -q- ______ to the cinema yesterday
+-v- -t- I went
+-v- I have gone
+-v- I Gone
+-v- I go
+   -q- My sister ______to the cinema very often
+-v- Don’t go
+-v- -t- Doesn’t go
+
+-v- Goes not
+-v- Is not go
+   -q- Where did you ___ this book?
+-v- Bought
+-v- -t- Buy
+-v- Buyed
+-v- Buys
+   -q- What film ___ you ____ last night?
+-v- -t- Did/see
+-v- Did/saw
+-v- Did/seen
+-v- Do/see
+   -q- Who ___ that car?
+-v- Did buy
+-v- Buyed
+-v- -t- Bought
+-v- Does buy
+   -q- Who ___ there?
+-v- Did go
+-v- Did went
+-v- Gone
+-v- -t- Went
+   -q- What ____ you ___ about?
+-v- -t- Are/talking
+-v- Are/talk
+-v- Is/talking
+-v- Do/talking
+   -q- I _____ tennis every Sunday morning.
+-v- -t- Play
+-v- Playing
+-v- Am playing
+-v- Am play
+   -q- Sorry, she can&#39;t come to the phone. She____ a bath!
+-v- -t- Is having
+-v- Has
+-v- Having
+-v- Have
+   -q- ____many times every winter in Frankfurt.
+-v- -t- It snows
+-v- It snowed
+-v- It is snowing
+-v- It is snow
+   -q- Babies ____ when they are hungry.
+-v- -t- cry
+-v- cries
+-v- cried
+-v- are crying
+   -q- What time____
+-v- -t- the train leaves?
+
+-v- leaves the train?
+-v- is the train leaving?
+-v- does the train leave?
+   -q- The phone _____ .Can you answer it, please?
+-v- -t- rings
+-v- ring
+-v- rang
+-v- is ringing
+   -q- We ______ to the park when a strange man ______ us for money.
+-v- went / asked
+-v- were going / was asking
+-v- -t- were going / asked
+-v- went / was going
+   -q- Susan _______ her leg while she ________
+-v- was breaking / was skiing
+-v- -t- broke / was skiing
+-v- broke / skied
+-v- was breaking / was skiing
+   -q- The wind ____when Peter _____an owl on a tree.
+-v- blew / was seeing
+-v- was blowing / was seeing
+-v- -t- was blowing / saw
+-v- blew / saw
+   -q- I __________ a lot of money yesterday. I __________ an expensive dress.
+-v- spend / buy
+-v- spent / buy
+-v- -t- spent / bought
+-v- was spent / bought
+   -q- The match doesn&#39;t start till 9 o&#39;clock, so we __________ a drink first.
+-v- Will have
+-v- Are having
+-v- -t- Have
+-v- had

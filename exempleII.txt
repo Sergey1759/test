@@ -1,0 +1,39 @@
+-level-II-
+    -q- A hardware and software combination used to connect the same type of networks is called
+-v- -t- a bridge
+-v- a router
+-v- -t- a backbone
+-v- a gateway
+   -q- The layer that converts a message’s data from human-readable form into bits is called
+-v- -t- application layer
+-v- presentation layer
+-v- -t-  session layer
+-v- transport layer
+   -q- The layer that ensures that the message is transmitted in a language that the receiving computer
+can interpret is called
+-v- application layer
+-v- -t- presentation layer
+-v- session layer
+-v- transport layer
+   -q- The layer that sets boundaries (called bracketing) for the beginning and end of the message is
+called
+-v- application layer
+-v- -t-  presentation layer
+-v- -t- session layer
+-v- transport layer
+   -q- The layer that can make backup copies of the data is called
+-v- application layer
+-v- presentation layer
+-v-  -t- session layer
+-v- -t- transport layer
+   -q- The layer that selects a route for the message is called
+-v-  -t- application layer
+-v- presentation layer
+-v- session layer
+-v- -t- network layer
+   -q- The layer that keeps a copy of each packet until it receives confirmation from the next point is
+called
+-v- presentation layer
+-v-  -t- session layer
+-v- network layer
+-v- -t- data-link layer
