@@ -1,0 +1,38 @@
+.select-box{
+    width: 80%;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    color: #84b1b1;
+    margin-left: 10%;
+}
+.select-question{
+    overflow: hidden;
+    margin: 5px 30px;
+}
+.select-question p{
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.select-question select{
+    position: relative;
+    width: 50%;
+    background: #c6f2d0;
+    float: left;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    color: #84b1b1;
+    padding: 3px;
+    border: 1px solid #1d6369;
+}
+.task{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}

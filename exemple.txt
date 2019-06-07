@@ -1,0 +1,182 @@
+-level-IV-
+    -task- Find the synonyms
+-que- Huge    -ans- Large
+-que- Noisy   -ans- Loud   
+-que- Correct -ans- Right
+-que- Clever  -ans- Intelligent
+-que- Clever  -ans- Intelligent
+-que- Clever  -ans- Intelligent
+
+   -task- Find the antonyms
+-que- Leave   -ans- Arrive
+-que- Lose    -ans- Find
+-que- Finish  -ans- Begin
+-que- Show    -ans- Hide
+
+   -task- Find the antonyms
+-que- Dry     -ans- Wet
+-que- Clean   -ans- Dirty
+-que- Bitter  -ans- Sweet
+-que- Ill     -ans- Healthy
+
+   -task- Find the antonyms
+-que- Clever      -ans- Stupid
+-que- Narrow      -ans- Wide
+-que- Dangerous   -ans- Safe
+-que- Fresh       -ans- Stale
+
+   -task- Find the antonyms
+-que- Majority    -ans- Minority
+-que- Pull        -ans- Push
+-que- Low         -ans- High
+-que- Expensive   -ans- Cheap
+
+   -task- Find the antonyms
+-que- Increase    -ans- Decrease
+-que- Absent      -ans- Present
+-que- Sour        -ans- Sweet
+-que- Brave       -ans- Cowardly
+   -task- Find the synonyms
+-que- Smart       -ans- Clever
+-que- Brave       -ans- Courageous
+-que- Gigantic    -ans- Huge
+-que- Annual      -ans- Yearly
+
+   -task- Find the synonyms
+-que- Actually    -ans- Really
+-que- Famous      -ans- Well-known
+-que- Error       -ans- Mistake
+-que- Way         -ans- Road
+
+   -task- Find the synonyms
+-que- Fundamental -ans- Basic
+-que- Expensive   -ans- Pricy
+-que- Terrible    -ans- Awful
+-que- Exciting    -ans- Amazing
+
+   -task- Find the synonyms
+-que- Wish    -ans- Desire
+-que- Slim    -ans- Slender
+-que- Lend    -ans- Borrow
+-que- Easy    -ans- Simple
+   -task- Find the antonyms
+-que- Cry     -ans- Laugh
+-que- Stupid  -ans- Intelligent
+-que- Thin    -ans- Thick
+-que- Agree   -ans- Refuse
+
+   -task- Find the antonyms
+-que- Ugly        -ans- Beautiful
+-que- Lazy        -ans- Hard-working
+-que- Deep        -ans- Shallow
+-que- Interesting -ans- Boring
+
+   -task- Find the antonyms
+-que- Private -ans- Public
+-que- Current -ans- Ancient
+-que- Polite  -ans- Rude
+-que- Quick   -ans- Slow
+
+   -task- Find the synonyms
+-que- Important   -ans- Essential
+-que- Personal    -ans- Private
+-que- Anonymous   -ans- Unknown
+-que- Exact       -ans- Precise
+
+   -task- Find the antonyms
+-que- Strong      -ans- Weak
+-que- Angry       -ans- Kind
+-que- Friendly    -ans- Aggressive
+-que- Poor        -ans- Rich
+Happy       Miserable
+
+   -task- Find the antonyms
+-que- Curly           -ans- Straight
+-que- Communicative   -ans- Reserved
+-que- Pretty          -ans- Ugly
+-que- Slender         -ans- Plump
+
+   -task- Find the synonyms
+-que- Sociable    -ans- Communicative
+-que- Selfish     -ans- Egoistic
+-que- Boring      -ans- Dull
+-que- Wealthy     -ans- Rich
+
+   -task- Find the synonyms
+-que- Tolerant    -ans- Polite
+-que- Active      -ans- Energetic
+-que- Punctual    -ans- Exact
+-que- Furious     -ans- Angry
+
+   -task- Match the adjectives and nouns
+-que- Secondary   -ans- School
+-que- Political   -ans- Power
+-que- Democratic  -ans- Society
+-que- Landscape   -ans- Design
+
+   -task- Match the adjectives and nouns
+-que- Independent     -ans- State
+-que- Financial       -ans- Support
+-que- Foreign         -ans- Citizen
+-que- Old-fashioned   -ans- Secretary
+
+   -task- Match the adjectives and nouns
+-que- Public          -ans- Transport
+-que- Favourite       -ans- Actress
+-que- Psychological   -ans- Support
+-que- Outstanding     -ans- People
+
+   -task- Match the adjectives and nouns
+-que- Peaceful    -ans- Atmosphere
+-que- Historical  -ans- Building
+-que- Impressive  -ans- Landscape
+-que- Industrial  -ans- Exhibition
+
+   -task- Match the adjectives and nouns
+-que- Successful      -ans- Career
+-que- International   -ans- Festival
+-que- Dangerous       -ans- Situation
+-que- Working         -ans- Experience
+
+   -task- Match the adjectives and nouns
+-que- Unique          -ans- Architecture
+-que- Responsible     -ans- Government
+-que- Civil           -ans- War
+-que- Equal           -ans- Rights
+
+   -task- Match the adjectives and nouns
+-que- Modern      -ans- Cottage
+-que- Serious     -ans- Problem
+-que- Delicious   -ans- Soup
+-que- Pleasant    -ans- Morning
+
+   -task- Match the adjectives and nouns
+-que- Favourite   -ans- Subject
+-que- Interactive -ans- Whiteboard
+-que- Chocolate   -ans- Fair
+-que- Various     -ans- Structures
+
+   -task- Match the adjectives and nouns
+-que- Guided      -ans- Tour
+-que- Fresh       -ans- Vegetables
+-que- Antique     -ans- Furniture
+-que- Gigantic    -ans- Pyramids
+
+   -task- Match the adjectives and nouns
+-que- Optimistic  -ans- View
+-que- Public      -ans- Reading
+-que- Famous      -ans- Authors
+-que- Educational -ans- Programs
+
+   -task- Match the adjectives and nouns
+-que- Social      -ans- Nets
+-que- Advanced    -ans- Technologies
+-que- Graduation  -ans- Ceremony
+-que- Attentive   -ans- Listener
+
+   -task- Match the adjectives and nouns
+-que- Infectious  -ans- Disease
+-que- Positive    -ans- Example
+-que- Music       -ans- Performance
+-que- Human       -ans- Emotions
+
